@@ -10,7 +10,7 @@ nav {
   left: 0;
   right: 0;
   font-family: 'Prata', serif;
-  font-size: 22px;
+  font-size: 30px;
 }
 
 .navigation {
@@ -24,7 +24,7 @@ nav {
 
 .navigation li a {
   text-decoration: none;
-  color: #fff;
+  color: #3E6C6F;
 }
 
 .row {
