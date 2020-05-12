@@ -119,6 +119,12 @@ p {
 }
 
 @media (max-width: 600px) {
+  body {
+    width: 100vw;
+  }
+  nav {
+    font-size: 20px;
+  }
   .row {
     display: grid;
     grid-template-areas:
@@ -133,8 +139,11 @@ p {
       .col2;
     grid-template-columns: 1fr;
 }
+.top-container h1 {
+  font-size: 100px;
+}
 .passion h2 {
-  text-align: left;
+  font-size: 60px;
 }
 .img2 {
   width: 100%;
