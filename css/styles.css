@@ -149,6 +149,10 @@ p {
     font-size: 60px;
   }
 
+  .img1 {
+    width: 80%;
+  }
+
   .img2 {
     width: 100%;
   }
